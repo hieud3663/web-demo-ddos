@@ -63,6 +63,7 @@ export default function Home() {
       <header className={styles.header}>
         <h1 className={styles.title}>System Telemetry</h1>
         <p className={styles.subtitle}>Target Application for DDoS Resistance Testing</p>
+        <p className={styles.subtitle}>Đây là trang demo được xây dựng bởi DNHIEU - UAssistant</p>
       </header>
 
       <main className={styles.dashboard}>
